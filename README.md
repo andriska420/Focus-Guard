@@ -20,7 +20,7 @@ Your active window stays active. Your typing stays where it belongs. Period.
 
 Found an edge case? Want to optimize the code? PRs are open and always welcome. Let's make macOS a little less annoying for everyone.
 
-☕If you like the app and can afford it, I would appreciate your donations at:https://ko-fi.com/hantosandras
+☕If you like the app and can afford it, I would appreciate your donations at: https://ko-fi.com/hantosandras
 
 📝 License
 
