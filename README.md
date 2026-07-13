@@ -3,9 +3,10 @@ Apple still hasn't fixed this weird macOS quirk, and I honestly just got complet
 
 🛠 What it actually does
 
-This is a lightweight, zero-BS utility that sits quietly in your menu bar. It monitors for delayed window activation requests and intercepts them. If you are actively working in a window, [App Name] forces those late-to-the-party background apps to load behind your current workspace.
+This is a lightweight, zero-BS utility that sits quietly in your menu bar. It monitors for delayed window activation requests and intercepts them. If you are actively working in a window, Focus Guard forces those late-to-the-party background apps to load behind your current workspace.
 
 Your active window stays active. Your typing stays where it belongs. Period.
+
 🚀 Getting Started
 
     Grab the latest .dmg or .zip from the Releases tab.
