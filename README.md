@@ -25,3 +25,6 @@ Found an edge case? Want to optimize the code? PRs are open and always welcome. 
 📝 License
 
 MIT License. Do whatever you want with the code, fork it, mod it, learn from it. Just don't blame me if your computer explodes (it won't).
+
+My Website[experimenting with the design sry]
+https://andrewdevv.netlify.app/
