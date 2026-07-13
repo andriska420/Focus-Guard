@@ -28,4 +28,4 @@ MIT License. Do whatever you want with the code, fork it, mod it, learn from it.
 
 My Website[experimenting with the design sry]
 
-https://andrewdevv.netlify.app/
+https://getfocusguard.netlify.app
